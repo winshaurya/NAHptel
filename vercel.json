@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "routes": [
+  "redirects": [
     {
-      "src": "/",
-      "status": 302,
-      "dest": "https://storage.googleapis.com/BUCKET/FILE"
+      "source": "/",
+      "destination": "https://storage.googleapis.com/BUCKET/FILE",
+      "permanent": false
     }
   ]
 }
