@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://storage.googleapis.com/BUCKET/FILE",
+      "statusCode": 307
+    }
+  ]
+}
