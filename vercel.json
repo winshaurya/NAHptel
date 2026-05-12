@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://storage.googleapis.com/BUCKET/FILE",
+      "destination": "https://storage.googleapis.com/2026-mar-halltickets-certificates/certificate-generation-apr26/final/Regular/noc26-cs63/NOC26CS63S15640060104861213.pdf",
       "statusCode": 307
     }
   ]
