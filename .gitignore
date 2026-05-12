@@ -1,3 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
+
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+
+# Env
+.env
 node_modules/
 .env
 .vercel/

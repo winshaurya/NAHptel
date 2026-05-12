@@ -1,4 +1,14 @@
 {
+  "version": 2,
+  "routes": [
+    {
+      "src": "/",
+      "status": 302,
+      "dest": "https://storage.googleapis.com/BUCKET/FILE"
+    }
+  ]
+}
+{
   "redirects": [
     {
       "source": "/",
